@@ -28,4 +28,7 @@ The code uses kivy for the simple GUI construction.
 3. You may also consider using tools such as `Pyinstaller` to package it to executable and deploy it to other machines without python installed.
 
 
-<src="example_faceswap.mp4" autostart="false" height="600" width="800">
+
+https://user-images.githubusercontent.com/23252023/123335848-a932cc80-d50a-11eb-863a-c39f66de87f5.mp4
+
+
