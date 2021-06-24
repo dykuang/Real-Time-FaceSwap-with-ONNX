@@ -16,7 +16,7 @@ The code uses kivy for the simple GUI construction.
 
 ## How to play with it
 
-1.Download pictures of whom you would like to swap your with to the `\portrait` folder. A frontal view protrait picture will be ideal for final performance.   
+1.Download pictures of whom you would like to swap your face with to the `\portrait` folder. A frontal view protrait picture will be ideal for final performance.   
 
 2.Execute `faceswap_kivy.py` to start the GUI.  
  
